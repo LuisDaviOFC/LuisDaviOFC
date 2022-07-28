@@ -57,6 +57,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/LuisDaviOFC/LuisDaviOFC/blob/output/snake.svg" alt="Snake animation" />
+  <img align="center" src="https://github.com/benccalcyxzfi/benccalcyxzfi/blob/output/github-contribution-grid-snake.gif">
 
 ###
