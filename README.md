@@ -57,6 +57,6 @@
 
 ###
 
-  <img align="center" src="https://github.com/benccalcyxzfi/benccalcyxzfi/blob/output/github-contribution-grid-snake.gif">
+ ![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 ###
